@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=FPl-7mTW20U&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG&index=12
 
+https://www.youtube.com/watch?v=rSt_RTo8Gqs
+
 This example is taken from above link tutorial
 
 git config --global user.email "xxxx@xxx.com"

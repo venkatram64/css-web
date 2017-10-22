@@ -1,5 +1,6 @@
 import $ from "jquery";
-require('./style.css');
+//require('./style.css');
+require('./mine.css');
 
 $("a.stack").on("click", function(){
     $("article").addClass("stack");
